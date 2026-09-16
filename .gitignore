@@ -1,0 +1,18 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Vector store (regenerated from data/, don't commit)
+vectorstore/
+*.faiss
+*.pkl
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Data (optional: uncomment if you don't want to push sample PDFs)
+# data/*.pdf
