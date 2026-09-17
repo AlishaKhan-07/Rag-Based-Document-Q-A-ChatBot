@@ -1,4 +1,4 @@
-# RAG-Based AI Chatbot for Document Question Answering
+# Explainable RAG-Based AI Chatbot for Document Question Answering
 
 A simple, modular Retrieval-Augmented Generation (RAG) chatbot that answers
 questions about an uploaded PDF, built with **LangChain + FAISS +
