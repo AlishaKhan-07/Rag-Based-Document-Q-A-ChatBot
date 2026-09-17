@@ -89,3 +89,6 @@ Because each phase here is already its own module with a clean interface,
 extending to LectureLens mostly means writing new loaders/chunkers and
 plugging them into the same `vector_store.py` / `rag_pipeline.py` — the
 core RAG logic doesn't need to change.
+
+
+🚀 **Live Demo:** [Try the Streamlit App]((https://rag-based-document-q-a-chatbot-bzju8jruuc2gsymnrag4vx.streamlit.app/#4862dec6))
